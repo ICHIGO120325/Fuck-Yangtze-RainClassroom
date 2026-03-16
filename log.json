@@ -304,5 +304,23 @@
         "student": "赵思涵",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1551956451156314624"
+    },
+    {
+        "id": "1642522568332943616",
+        "title": "数字电子技术基础",
+        "name": "数字电子技术基础",
+        "time": "2026-03-16 07:07:42",
+        "student": "闫泓睿",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1642522568332943616"
+    },
+    {
+        "id": "1642520145082265600",
+        "title": "数字电子技术基础",
+        "name": "数字电子技术基础",
+        "time": "2026-03-16 07:07:43",
+        "student": "闫泓睿",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1642520145082265600"
     }
 ]
